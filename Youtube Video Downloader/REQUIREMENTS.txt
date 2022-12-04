@@ -1,0 +1,17 @@
+**********************************************************************************************
+Hello This Is The Requirements That You Need To Install Before RUNNING THE CODE
+
+Requirements
+ MUST HAVE Python App (Version 3 To Latest) 
+
+ To Install The Extensions 
+Go To Cmds/Powershell And Type This 
+*MUST HAVE AN PIP* 
+
+pip install tkinter 
+pip install pytube 
+pip install moviepy
+pip install shutil
+
+
+************************************************************************************************
