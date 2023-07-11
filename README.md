@@ -1,2 +1,3 @@
 # youtube-video-downloader
-ewan ko
+
+look at requirements.txt
